@@ -79,7 +79,7 @@
         
         <div>
             <button class="btn-common"><a href="signup.php" class="link" >SIGN UP</a></button>
-            <button class="btn-common"><a href="login.php"  class="link" >LOG IN</a></button>
+            <button class="btn-common"><a href="https://github.com/Johnson1215/Smart-parking/settings/pages/login.php"  class="link" >LOG IN</a></button>
         </div>
         
         <style>
